@@ -1,5 +1,5 @@
 
-[Angus Lee's Dev Card](https://github.com/terrason/terrason/blob/main/devcard.svg)
+![Angus Lee's Dev Card](https://raw.githubusercontent.com/terrason/terrason/main/devcard.svg)
 
 # Angus
 ### A poor Java developer dreaming to code new world.
