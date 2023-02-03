@@ -2,9 +2,9 @@
 # Angus
 ### A poor Java developer dreaming to code new world.
 
-<div style="display:block;float:right;">
+<a href="https://github.com/terrason" style="display:block;float:right;">
  <img width="400" src="https://raw.githubusercontent.com/terrason/terrason/main/devcard.svg" alt="Angus Lee's Dev Card"/>
-</div>
+</a>
 
 ⤷ I am a creative Java Web Developer since 2010. I have a strong foundation in Java, HTML/CSS and JavaScript. Enjoy solving real-life problems with clean, scalable and efficient solutions.
 
