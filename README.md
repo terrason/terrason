@@ -1,12 +1,8 @@
+<img width="400" src="https://raw.githubusercontent.com/terrason/terrason/main/devcard.svg" alt="Angus Lee's Dev Card"/>
 
 # Angus
 ### A poor Java developer dreaming to code new world.
 
-<p align="right">
-<a href="https://github.com/terrason">
- <img width="400" src="https://raw.githubusercontent.com/terrason/terrason/main/devcard.svg" alt="Angus Lee's Dev Card"/>
-</a>
-</p>
 
 ⤷ I am a creative Java Web Developer since 2010. I have a strong foundation in Java, HTML/CSS and JavaScript. Enjoy solving real-life problems with clean, scalable and efficient solutions.
 
