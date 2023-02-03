@@ -2,7 +2,7 @@
 # Angus
 ### A poor Java developer dreaming to code new world.
 
-<p style="display:block;float:right;">
+<p align="right">
 <a href="https://github.com/terrason">
  <img width="400" src="https://raw.githubusercontent.com/terrason/terrason/main/devcard.svg" alt="Angus Lee's Dev Card"/>
 </a>
