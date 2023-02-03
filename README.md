@@ -1,5 +1,5 @@
 # Angus
-<a href="https://app.daily.dev/terrason"><img src="https://api.daily.dev/devcards/237b052630e349a88abaad20e06579f2.png?r=zsc" width="400" alt="Angus Lee's Dev Card"/></a>
+<a href="https://app.daily.dev/terrason" style="float:right"><img src="https://api.daily.dev/devcards/237b052630e349a88abaad20e06579f2.png?r=zsc" width="400" alt="Angus Lee's Dev Card"/></a>
 ### A poor Java developer dreaming to code new world.
 
 ⤷ I am a creative Java Web Developer since 2010. I have a strong foundation in Java, HTML/CSS and JavaScript. Enjoy solving real-life problems with clean, scalable and efficient solutions.
