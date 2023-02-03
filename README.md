@@ -1,4 +1,5 @@
-<a href="https://app.daily.dev/terrason"><img src="https://github.com/terrason/terrason/blob/master/devcard.svg" width="400" alt="Angus Lee's Dev Card"/></a>
+
+[Angus Lee's Dev Card](https://github.com/terrason/terrason/blob/main/devcard.svg)
 
 # Angus
 ### A poor Java developer dreaming to code new world.
