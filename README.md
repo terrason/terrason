@@ -8,7 +8,8 @@
 
  <a aligh="left" href="https://terrason.oschina.io/experience/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:jterraghost@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
 
-[Resume](resume)
+
+[Resume](https://terrason.github.io/resume/)
 
 ⚐ Based in Hefei, Anhui, China
 
